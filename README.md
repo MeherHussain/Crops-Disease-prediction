@@ -20,7 +20,7 @@ Clone the Repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/crop-disease-predictor.git
+git clone https://github.com/MeherHussain/crop-disease-predictor.git
 cd crop-disease-predictor
 Install Dependencies:
 
